@@ -38,13 +38,9 @@ The key features are:
 
 #### Basic Concepts
 
-- [ ] :Path Parameters
-
-  >
+- [x] :Path Parameters
 
 - [ ] :API Docs, Swagger/ReDocs
-
-  >
 
 - [ ] :Query Parameter
 
