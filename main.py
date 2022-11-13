@@ -4,7 +4,7 @@ app = FastAPI()
 
 
 @app.get("/")
-def indez():
+def index():
     return {
         "data": {
             "blog list"
