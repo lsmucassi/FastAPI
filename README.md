@@ -28,7 +28,7 @@ The key features are:
 
 ### Project Strucure
 #### Basic Concepts
-[ ] : Path Parameters
+- [ ] : Path Parameters
 >
 
 [ ]: API Docs, Swagger/ReDocs
