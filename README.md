@@ -26,6 +26,12 @@ The key features are:
 - uses Starlette: supports WebSocket, GraphQL, background processes, and startup and shutdown events, test built in, CORS, GZip, Streaming responses, Sessions and Coolies
 - supports Sql and NoSql, and GraphQL
 
+### Requirements
+- Python 3.8+
+- FastAPI
+- Uvicorn
+
+
 ### Project Strucure
 #### Basic Concepts
 - [ ] :Path Parameters
