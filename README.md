@@ -1,8 +1,8 @@
 # MicroServices With Fast API
 
 > FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
-> Documentation: https://fastapi.tiangolo.com
-> Source Code: https://github.com/tiangolo/fastapi
+> - Documentation: https://fastapi.tiangolo.com
+> - Source Code: https://github.com/tiangolo/fastapi
 
 The key features are:
 
