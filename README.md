@@ -14,3 +14,15 @@ The key features are:
 - Short: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
 - Robust: Get production-ready code. With automatic interactive documentation.
 - Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
+
+### Pros
+- SwaggerUI 
+- ReDoc
+- uses morden python(3.6+) defination and pydantic
+- based on OpenAPI
+- uses ISON Schema
+- security and authentication
+- built in testing
+- uses Starlette: supports WebSocket, GraphQL, background processes, and startup and shutdown events, test built in, CORS, GZip, Streaming responses, Sessions and Coolies
+- supports Sql and NoSql, and GraphQL
+
