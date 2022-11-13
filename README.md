@@ -1,6 +1,7 @@
 # MicroServices With Fast API
 
 > FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
+>
 > - Documentation: https://fastapi.tiangolo.com
 > - Source Code: https://github.com/tiangolo/fastapi
 
@@ -16,7 +17,8 @@ The key features are:
 - Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
 
 ### Pros
-- SwaggerUI 
+
+- SwaggerUI
 - ReDoc
 - uses morden python(3.6+) defination and pydantic
 - based on OpenAPI
@@ -27,91 +29,118 @@ The key features are:
 - supports Sql and NoSql, and GraphQL
 
 ### Requirements
+
 - Python 3.8+
 - FastAPI
 - Uvicorn
 
-
 ### Project Strucure
-#### Basic Concepts
-- [ ] :Path Parameters
->
 
-[ ]:API Docs, Swagger/ReDocs
->
+#### Basic Concepts
+
+- [ ] :Path Parameters
+
+  >
+
+- [ ] :API Docs, Swagger/ReDocs
+
+  >
 
 - [ ] :Query Parameter
->
 
-- [ ]: Request Body
->
+  >
+
+- [ ] :Request Body
+  >
 
 #### Intermediate Concepts
-[ ]: Debugging FastAPI
->
 
-[ ]: Pydantic Schema
->
+- [ ] :Debugging FastAPI
 
-[ ]: SqlAlchemy Database Connection
->
+  >
 
-[ ]: Models and Tables
->
+- [ ] :Pydantic Schema
+
+  >
+
+- [ ] :SqlAlchemy Database Connection
+
+  >
+
+- [ ] :Models and Tables
+  >
 
 #### CRUD Operations
-[ ]: Create
->
 
-[ ]: Read
->
+- [ ] :Create
 
-[ ]: Delete
->
+  >
 
-[ ]: Update
->
+- [ ] :Read
+
+  >
+
+- [ ] :Delete
+
+  >
+
+- [ ] :Update
+  >
 
 #### Responses
+
 [ ]: Handle Exceptions
+
 >
 
 [ ]: Return Responses
+
 >
 
 [ ]: Define Response Model
+
 >
 
 #### Auth
+
 [ ]: Create User
+
 >
 
 [ ]: hash User Credentials
+
 >
 
 [ ]: Show User(s)
+
 >
 
 [ ]: Define Docs Tags
+
 >
 
 [ ]: JWT - Login Route
+
 >
 
 [ ]: Login and Verify Password
+
 >
 
 [ ]: Return JWT token
+
 >
 
 [ ]: Auth Routes
+
 >
 
 #### Database Relationships
+
 [ ]: User to Blog
+
 >
 
 [ ]: Blog to User
+
 >
-
-
