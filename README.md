@@ -33,6 +33,7 @@ The key features are:
 - Python 3.8+
 - FastAPI
 - Uvicorn
+- Pydantic
 
 ### Project Strucure
 
@@ -40,7 +41,7 @@ The key features are:
 
 - [x] :Path Parameters
 - [x] :API Docs, Swagger/ReDocs
-- [ ] :Query Parameter
+- [x] :Query Parameter
 - [ ] :Request Body
 
 #### Intermediate Concepts
@@ -49,71 +50,30 @@ The key features are:
 - [ ] :Pydantic Schema
 - [ ] :SqlAlchemy Database Connection
 - [ ] :Models and Tables
- 
+
 #### CRUD Operations
 
 - [ ] :Create
-
-  >
-
 - [ ] :Read
-
-  >
-
 - [ ] :Delete
-
-  >
-
 - [ ] :Update
-  >
 
 #### Responses
 
-[ ]: Handle Exceptions
-
->
-
-[ ]: Return Responses
-
->
-
-[ ]: Define Response Model
-
->
+- [ ] :Handle Exceptions
+- [ ] :Return Responses
+- [ ] :Define Response Model
 
 #### Auth
 
-[ ]: Create User
-
->
-
-[ ]: hash User Credentials
-
->
-
-[ ]: Show User(s)
-
->
-
-[ ]: Define Docs Tags
-
->
-
-[ ]: JWT - Login Route
-
->
-
-[ ]: Login and Verify Password
-
->
-
-[ ]: Return JWT token
-
->
-
-[ ]: Auth Routes
-
->
+- [ ] :Create User
+- [ ] :hash User Credentials
+- [ ] :Show User(s)
+- [ ] :Define Docs Tags
+- [ ] :JWT - Login Route
+- [ ] :Login and Verify Password
+- [ ] :Return JWT token
+- [ ] :Auth Routes
 
 #### Database Relationships
 
