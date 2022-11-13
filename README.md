@@ -28,16 +28,16 @@ The key features are:
 
 ### Project Strucure
 #### Basic Concepts
-- [ ] : Path Parameters
+- [ ] :Path Parameters
 >
 
-[ ]: API Docs, Swagger/ReDocs
+[ ]:API Docs, Swagger/ReDocs
 >
 
-[ ]: Query Parameter
+- [ ] :Query Parameter
 >
 
-[ ]: Request Body
+- [ ]: Request Body
 >
 
 #### Intermediate Concepts
