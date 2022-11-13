@@ -39,48 +39,43 @@ The key features are:
 
 #### Basic Concepts
 
-- [x] :Path Parameters
-- [x] :API Docs, Swagger/ReDocs
-- [x] :Query Parameter
-- [ ] :Request Body
+- [x] - Path Parameters
+- [x] - API Docs, Swagger/ReDocs
+- [x] - Query Parameter
+- [ ] - Request Body
 
 #### Intermediate Concepts
 
-- [ ] :Debugging FastAPI
-- [ ] :Pydantic Schema
-- [ ] :SqlAlchemy Database Connection
-- [ ] :Models and Tables
+- [ ] - Debugging FastAPI
+- [ ] - Pydantic Schema
+- [ ] - SqlAlchemy Database Connection
+- [ ] - Models and Tables
 
 #### CRUD Operations
 
-- [ ] :Create
-- [ ] :Read
-- [ ] :Delete
-- [ ] :Update
+- [ ] - Create
+- [ ] - Read
+- [ ] - Delete
+- [ ] - Update
 
 #### Responses
 
-- [ ] :Handle Exceptions
-- [ ] :Return Responses
-- [ ] :Define Response Model
+- [ ] - Handle Exceptions
+- [ ] - Return Responses
+- [ ] - Define Response Model
 
 #### Auth
 
-- [ ] :Create User
-- [ ] :hash User Credentials
-- [ ] :Show User(s)
-- [ ] :Define Docs Tags
-- [ ] :JWT - Login Route
-- [ ] :Login and Verify Password
-- [ ] :Return JWT token
-- [ ] :Auth Routes
+- [ ] - Create User
+- [ ] - hash User Credentials
+- [ ] - Show User(s)
+- [ ] - Define Docs Tags
+- [ ] - JWT - Login Route
+- [ ] - Login and Verify Password
+- [ ] - Return JWT token
+- [ ] - Auth Routes
 
 #### Database Relationships
 
-[ ]: User to Blog
-
->
-
-[ ]: Blog to User
-
->
+- [ ] - User to Blog
+- [ ] - Blog to User
