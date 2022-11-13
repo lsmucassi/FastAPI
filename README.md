@@ -39,33 +39,17 @@ The key features are:
 #### Basic Concepts
 
 - [x] :Path Parameters
-
-- [ ] :API Docs, Swagger/ReDocs
-
+- [x] :API Docs, Swagger/ReDocs
 - [ ] :Query Parameter
-
-  >
-
 - [ ] :Request Body
-  >
 
 #### Intermediate Concepts
 
 - [ ] :Debugging FastAPI
-
-  >
-
 - [ ] :Pydantic Schema
-
-  >
-
 - [ ] :SqlAlchemy Database Connection
-
-  >
-
 - [ ] :Models and Tables
-  >
-
+ 
 #### CRUD Operations
 
 - [ ] :Create
