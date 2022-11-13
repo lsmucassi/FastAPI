@@ -26,3 +26,65 @@ The key features are:
 - uses Starlette: supports WebSocket, GraphQL, background processes, and startup and shutdown events, test built in, CORS, GZip, Streaming responses, Sessions and Coolies
 - supports Sql and NoSql, and GraphQL
 
+### Project Strucure
+#### Basic Concepts
+[ ]: Path Parameters
+>
+
+[ ]: API Docs, Swagger/ReDocs
+>
+
+[ ]: Query Parameter
+>
+
+[ ]: Request Body
+>
+
+#### Intermediate Concepts
+[ ]: Debugging FastAPI
+>
+
+[ ]: Pydantic Schema
+>
+
+[ ]: SqlAlchemy Database Connection
+>
+
+[ ]: Models and Tables
+>
+
+#### CRUD Operations
+[ ]: Create
+>
+
+[ ]: Read
+>
+
+[ ]: Delete
+>
+
+[ ]: Update
+>
+
+#### Responses
+[ ]: Handle Exceptions
+>
+
+[ ]: Return Responses
+>
+
+[ ]: Define Response Model
+>
+
+#### Auth
+[ ]: Create User
+>
+
+[ ]: hash User Credentials
+>
+
+[ ]: Show User(s)
+>
+
+[ ]: Request Body
+
