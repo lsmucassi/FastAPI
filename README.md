@@ -28,7 +28,7 @@ The key features are:
 
 ### Project Strucure
 #### Basic Concepts
-[ ]: Path Parameters
+- [ ]: Path Parameters
 >
 
 [ ]: API Docs, Swagger/ReDocs
@@ -86,5 +86,26 @@ The key features are:
 [ ]: Show User(s)
 >
 
-[ ]: Request Body
+[ ]: Define Docs Tags
+>
+
+[ ]: JWT - Login Route
+>
+
+[ ]: Login and Verify Password
+>
+
+[ ]: Return JWT token
+>
+
+[ ]: Auth Routes
+>
+
+#### Database Relationships
+[ ]: User to Blog
+>
+
+[ ]: Blog to User
+>
+
 
