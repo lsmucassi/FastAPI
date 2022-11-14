@@ -42,12 +42,12 @@ The key features are:
 - [x] - Path Parameters
 - [x] - API Docs, Swagger/ReDocs
 - [x] - Query Parameter
-- [ ] - Request Body
+- [x] - Request Body
 
 #### Intermediate Concepts
 
-- [ ] - Debugging FastAPI
-- [ ] - Pydantic Schema
+- [x] - Debugging FastAPI
+- [x] - Pydantic Schema
 - [ ] - SqlAlchemy Database Connection
 - [ ] - Models and Tables
 
